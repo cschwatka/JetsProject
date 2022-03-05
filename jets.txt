@@ -1,0 +1,2 @@
+Passenger Jet,Cessna 172,25,250,123.32
+UFO,Marsy Parsy,100000,453323,58654
