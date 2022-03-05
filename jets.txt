@@ -1,2 +1,5 @@
-Passenger Jet,Cessna 172,25,250,123.32
-UFO,Marsy Parsy,100000,453323,58654
+Passenger,Boeing 747,500,2000,400000000
+Cargo,C-17 Globemaster,500,2000,340000000
+Cargo,C-5 Galaxy,500,2000,168000000
+Fighter,F-22 Raptor,2100,1500,233000000
+Fighter,F-35 Lightning,1800,1300,78000000
