@@ -1,5 +1,5 @@
 Passenger,Boeing 747,500,2000,400000000
+Fighter,F-22 Raptor,5100,1500,233000000
 Cargo,C-17 Globemaster,500,2000,340000000
 Cargo,C-5 Galaxy,500,2000,168000000
-Fighter,F-22 Raptor,2100,1500,233000000
-Fighter,F-35 Lightning,1800,1300,78000000
+Fighter,F-35 Lightning,4800,1300,78000000
